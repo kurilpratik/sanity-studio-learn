@@ -13,6 +13,6 @@
 
 - -> Return
   [] -> Filter
-  {} -> attributes to return
+  {} -> Projection - attributes to return
   -> {} => referencing values of another object
   "" -> Create and return new attribute
